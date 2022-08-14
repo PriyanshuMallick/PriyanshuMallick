@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PriyanshuMallick
 - 👀 I’m interested in Web devlopment, cyber security and flim making.
-- 🌱 I’m currently learning Front-End devlopment, C++, Python and many more.
-- 📫 You can reach me at imleonmallick@gmail.com || priyanshumallick@protonmail.com
+- 🌱 I’m currently learning Front-End devlopment, C, C++, Python, JAVA, JS, React, CSS, SASS and many more.
+- 📫 You can reach me at priyanshumallick@protonmail.com
 
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
