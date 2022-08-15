@@ -1,5 +1,5 @@
 ## Hi there 👋, 
-### my name is Priyanshu Mallick
+### My name is Priyanshu Mallick
 
 Skills: C++ / C  / JAVA / Python / JS / HTML / CSS / SASS
 
