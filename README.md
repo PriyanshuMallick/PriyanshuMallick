@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @PriyanshuMallick
-- 👀 I’m interested in Web devlopment, cyber security and flim making.
-- 🌱 I’m currently learning Front-End devlopment, C, C++, Python, JAVA, JS, React, CSS, SASS and many more.
-- 📫 You can reach me at priyanshumallick@protonmail.com
+### Hi there 👋, my name is Priyanshu Mallick
+#### I am programmer/storyteller
+
+Skills: C++ / C  / JAVA / Python / JS / HTML / CSS / SASS
+
+- 🔭 I’m currently working on my website and a few code projects 
+- 🌱 I’m currently learning Front-End, Database Management, AI, ML 
+- 👀 I’m interested in Web Dev, Cyber Security, and Filmmaking.
+- 👯 I’m looking to collaborate on a cool creative open-source project. For eg: Blender 
+- 📫 How to reach me: priyanshumallick@protonmail.com 
+or contact me on my socials
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PriyanshuMallick)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mallickpriyansh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mallickp)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuMallick)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
